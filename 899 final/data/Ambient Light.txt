@@ -1,0 +1,10 @@
+{
+    "0": 0,
+    "Dark - 0 roadway lighting": 1,
+    "Dark - lighted roadway": 2,
+    "Dark - roadway not lighted": 3,
+    "Dawn": 4,
+    "Daylight": 5,
+    "Dusk": 6,
+    "Other": 7
+}

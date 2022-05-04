@@ -1,0 +1,11 @@
+{
+    "0": 0,
+    "Dry": 1,
+    "Ice": 2,
+    "Other": 3,
+    "Sand, mud, dirt, oil, gravel": 4,
+    "Slush": 5,
+    "Snow": 6,
+    "Water (standing, moving)": 7,
+    "Wet": 8
+}

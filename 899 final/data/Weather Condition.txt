@@ -1,0 +1,8 @@
+{
+    "Clear": 0,
+    "Cloudy": 1,
+    "Cloudy/Rain": 2,
+    "Fog": 3,
+    "Rain": 4,
+    "Snow": 5
+}

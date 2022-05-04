@@ -1,0 +1,83 @@
+Number of Vehicles
+Total Nonfatal Injuries
+Total Fatal Injuries
+PRCP
+SNOW
+TMAX
+TMIN
+Longtitute
+Latitute
+year
+month
+day
+hour
+season
+week
+Severity_Fatal injury
+Severity_Non-fatal injury
+Severity_Not Reported
+Severity_Property damage only (none injured)
+Severity_Unknown
+Injury_Reported_Deceased not caused by crash
+Injury_Reported_Fatal injury (K)
+Injury_Reported_No Apparent Injury (O)
+Injury_Reported_No injury
+Injury_Reported_Non-fatal injury - Incapacitating
+Injury_Reported_Non-fatal injury - Non-incapacitating
+Injury_Reported_Non-fatal injury - Possible
+Injury_Reported_Not Applicable
+Injury_Reported_Not reported
+Injury_Reported_Possible Injury (C)
+Injury_Reported_Suspected Minor Injury (B)
+Injury_Reported_Suspected Serious Injury (A)
+Injury_Reported_Unknown
+Manner_Angle
+Manner_Front to Front
+Manner_Front to Rear
+Manner_Head-on
+Manner_Not reported
+Manner_Rear to Side
+Manner_Rear-end
+Manner_Rear-to-rear
+Manner_Sideswipe, opposite direction
+Manner_Sideswipe, same direction
+Manner_Single vehicle crash
+Manner_Unknown
+Condition_Dry
+Condition_Ice
+Condition_Not reported
+Condition_Other
+Condition_Sand, mud, dirt, oil, gravel
+Condition_Slush
+Condition_Snow
+Condition_Unknown
+Condition_Water (standing, moving)
+Condition_Wet
+Light_Dark - lighted roadway
+Light_Dark - roadway not lighted
+Light_Dark - unknown roadway lighting
+Light_Dawn
+Light_Daylight
+Light_Dusk
+Light_Not reported
+Light_Other
+Light_Unknown
+Weather_Clear
+Weather_Cloudy
+Weather_Cloudy/Rain
+Weather_Fog
+Weather_Rain
+Weather_Snow
+Ice_False
+Ice_True
+Hour_day
+Hour_night
+Hour_rush
+season_1.0
+season_2.0
+season_3.0
+season_4.0
+week_1.0
+week_2.0
+week_3.0
+week_4.0
