@@ -1,0 +1,48 @@
+PRCP
+SNOW
+TMAX
+TMIN
+Longtitute
+Latitute
+year
+month
+day
+hour
+season
+week
+Condition_Dry
+Condition_Ice
+Condition_Not reported
+Condition_Other
+Condition_Sand, mud, dirt, oil, gravel
+Condition_Slush
+Condition_Snow
+Condition_Unknown
+Condition_Water (standing, moving)
+Condition_Wet
+Light_Dark - lighted roadway
+Light_Dark - roadway not lighted
+Light_Dark - unknown roadway lighting
+Light_Dawn
+Light_Daylight
+Light_Dusk
+Light_Not reported
+Light_Other
+Light_Unknown
+Weather_Clear
+Weather_Cloudy
+Weather_Cloudy/Rain
+Weather_Fog
+Weather_Rain
+Weather_Snow
+Hour_day
+Hour_night
+Hour_rush
+season_1.0
+season_2.0
+season_3.0
+season_4.0
+week_1.0
+week_2.0
+week_3.0
+week_4.0
